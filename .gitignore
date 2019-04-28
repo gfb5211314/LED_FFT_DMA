@@ -1,0 +1,14 @@
+# Object files
+*.ioc
+*.crf
+*.d
+*.o
+*.axf
+*.lnp
+*.htm
+*.map
+*.sct
+*.dep
+*.iex
+*.lst
+.scvd
